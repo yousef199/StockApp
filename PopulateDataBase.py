@@ -14,5 +14,6 @@ for asset in assets:
                     VALUES (?, ?)
             """, (asset.symbol, asset.name))
 
+#Hi
 
 connection.commit()
