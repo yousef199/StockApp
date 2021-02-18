@@ -25,4 +25,6 @@ cursor.execute("""
         FOREIGN KEY (stock_id) REFERENCES stock (id)
     )
 """)
+
+#Hi
 connection.commit()
