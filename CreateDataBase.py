@@ -26,5 +26,5 @@ cursor.execute("""
     )
 """)
 
-#Hi
+
 connection.commit()
